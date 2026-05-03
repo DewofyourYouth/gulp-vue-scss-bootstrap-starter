@@ -11,7 +11,7 @@
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^6.0.1"
   },
   "dependencies": {
     "vue": "^2.6.11"
